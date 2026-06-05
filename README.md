@@ -12,6 +12,11 @@ This is a test of the emergency broadcast... just kidding, I am going to learn G
 ## How to Use
 Clone this repository and explore the files.
 
+## Trying to understand Making commits
+-so each time I make a change it's called a commit?
+-and the main is not changed or corrected, the branch is where the changes are made?
+
+
 
 ```bash
 git clone https://github.com/your-username/my-first-project.git
